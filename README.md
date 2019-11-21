@@ -5,7 +5,7 @@ Learning Challenge
 
 _A good programmer is someone who always looks both ways before crossing a one-way street. ~Doug Linder_
 
-[Stefan Nilsson](Stefan Nilsson.jpg)
+![Stefan Nilsson](Stefan Nilsson.jpg)
 
 I'm real.
 
