@@ -7,7 +7,7 @@ _*A good programmer is someone who always looks both ways before crossing a one-
 
 ![Stefan Nilsson](Stefan Nilsson.jpg)
 
-##### I'm real.
+###### I'm real.
 
 Colons can be used to align columns.
 
@@ -17,14 +17,29 @@ Colons can be used to align columns.
 | Gender     | M| 
 | Favorite colors      | Red & Blue      |
 | Favorite food | Ramen   |
-| Pizza on pineapple | Rather weird   |
+| Pizza on pineapple | No checkbox |
+
+## Hobbies
 
 
+* Music
+- Reading
++ Music
 
+### You can always count on me when
 
+You need a heart to heart talk
 
+#### Funny story
 
-  
+I was born
+
+###### summarization
+
+born
+
+[previous]()
+[next]  (https://github.com/Xenoxinius/challenge-markdown/tree/master)
      
    
      Hobbies (smaller header)
