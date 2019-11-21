@@ -45,5 +45,4 @@ born
 [next](https://github.com/Xenoxinius/challenge-markdown/tree/master)
      
    
-     Hobbies (smaller header)
-     This should contain a bullet list of your hobbies.
+  
