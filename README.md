@@ -9,7 +9,6 @@ _*A good programmer is someone who always looks both ways before crossing a one-
 
 ###### I'm real.
 
-Colons can be used to align columns.
 
 |         |           | 
 | ------------- |-------------| 
